@@ -1,0 +1,2 @@
+select n_name, count(distinct c_name), count(distinct s_name) from customer,supplier,nation, region where n_nationkey=s_nationkey and n_regionkey=r_regionkey 
+and c_nationkey=n_nationkey and r_name='EUROPE' group by n_name;
