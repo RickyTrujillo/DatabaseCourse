@@ -1,0 +1,1 @@
+select c_nation, o_orderstatus, count() from Q1,Q5 where o_custkey=c_custkey and c_region= 'ASIA' group by c_nation, o_orderstatus;

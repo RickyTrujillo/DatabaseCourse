@@ -1,0 +1,1 @@
+select s_region, MAX(s_acctbal) from Q2 group by s_region;

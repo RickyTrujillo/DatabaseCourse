@@ -1,0 +1,1 @@
+select count(distinct o_clerk) from Q2,Q5, lineitem where l_orderkey=o_orderkey and l_suppkey=s_suppkey and s_nation='RUSSIA';
