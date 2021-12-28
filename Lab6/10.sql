@@ -1,0 +1,3 @@
+select r_name from nation,region, lineitem, supplier where l_suppkey=s_suppkey and s_nationkey=n_nationkey and n_regionkey=r_regionkey 
+group by r_name having count(l_extendedprice)=(select max(q1.totalspent) from (select r_name, count(l_extendedprice) as totalspent from nation,region, lineitem, supplier where l_suppkey=s_suppkey and s_nationkey=n_nationkey and n_regionkey=r_regionkey 
+group by r_name) q1);

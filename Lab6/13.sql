@@ -1,0 +1,3 @@
+select n_name from nation,lineitem, supplier, orders where l_orderkey=o_orderkey and s_nationkey=n_nationkey and l_suppkey=s_suppkey and l_shipdate like '1996%'
+group by n_name having count()=(select count(l_extendedprice) as L from nation,lineitem, supplier, orders where l_orderkey=o_orderkey and s_nationkey=n_nationkey and l_suppkey=s_suppkey and l_shipdate like '1996%'
+group by n_name order by L DESC limit 1);

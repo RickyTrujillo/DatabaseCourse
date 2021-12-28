@@ -1,0 +1,1 @@
+select count(distinct s_suppkey) from supplier,part,partsupp where p_partkey=ps_partkey and ps_suppkey=s_suppkey and p_retailprice = (select min(p_retailprice) from part);

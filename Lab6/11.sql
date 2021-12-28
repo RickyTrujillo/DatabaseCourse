@@ -1,0 +1,2 @@
+select n_name from nation, customer where n_nationkey=c_nationkey group by n_name having count()=(select count(c_custkey) as L 
+from nation,customer where c_nationkey=n_nationkey group by n_name order by L desc);

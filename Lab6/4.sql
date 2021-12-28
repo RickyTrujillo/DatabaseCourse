@@ -1,0 +1,2 @@
+select count() from (select distinct p_partkey from part, partsupp, nation, supplier where p_partkey=ps_partkey and ps_suppkey=s_suppkey 
+and s_nationkey=n_nationkey and n_name='CANADA' group by s_suppkey having count(ps_partkey)>=4);

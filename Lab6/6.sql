@@ -1,0 +1,2 @@
+select distinct s_name,c_name from supplier, customer, orders,lineitem where o_totalprice=(select MAX(o_totalprice) from orders where 
+o_orderstatus='F') and o_custkey=c_custkey and l_suppkey=s_suppkey and o_orderkey=l_orderkey;
