@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t_p",
+				"t_paymentDate"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ph_med",
+				"ph_medicineName"
+			],
+			[
+				"dpt",
+				"dpt_employeeID"
+			],
+			[
+				"Patient",
+				"PatientHistory"
+			],
+			[
+				"surger",
+				"surgeryNum"
+			],
+			[
+				"dpt_",
+				"dpt_dptName"
+			],
+			[
+				"pat",
+				"patients_add"
+			],
+			[
+				"medci",
+				"medicine"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"form",
+				"formaction\tAttr"
+			],
+			[
+				"ph_",
+				"ph_surgeryName"
+			],
+			[
+				"dateO",
+				"p_dateOfBirth"
+			],
+			[
+				"p_",
+				"p_email"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"has",
+				"hash"
+			],
+			[
+				"n_n",
+				"n_nationkey"
+			],
+			[
+				"ps",
+				"ps_suppkey"
+			],
+			[
+				"l",
+				"l_partkey"
+			],
+			[
+				"order",
+				"o_orderdate"
+			],
+			[
+				"o",
+				"o_orderpriority"
+			],
+			[
+				"r",
+				"r_regionkey"
+			],
+			[
+				"c_",
+				"c_nationkey"
+			],
+			[
+				"c",
+				"c_nationkey"
+			],
+			[
+				"n",
+				"n_nationkey"
+			],
+			[
+				"Rick",
+				"Ricky_Trujillo"
+			],
+			[
+				"Adam",
+				"Adam_Punzalan"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"Angelica",
+				"Angelica_Pineda"
+			],
+			[
+				"Spencer",
+				"Spencer_Cole"
+			],
+			[
+				"130_Spen",
+				"130_Spencer_Cole"
+			],
+			[
+				"font-st",
+				"font-style"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"lin",
+				"linked-in-btn"
+			],
+			[
+				"pa",
+				"pattern"
+			],
+			[
+				"patter",
+				"pattern_depth"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "transactions.php",
+			"settings":
+			{
+				"buffer_size": 2248,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doctorinfo.php",
+			"settings":
+			{
+				"buffer_size": 2564,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doctor_add.php",
+			"settings":
+			{
+				"buffer_size": 1147,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/rickytrujillo/Desktop/Project web/patientinfo.php",
+			"settings":
+			{
+				"buffer_size": 2200,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "proccess_update.php",
+			"settings":
+			{
+				"buffer_size": 2290,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "surgery_add.php",
+			"settings":
+			{
+				"buffer_size": 953,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 209.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs"
+	],
+	"file_history":
+	[
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/transactions_update.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/proccess_update.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/patients.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/doctors.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/doctorinfo.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/patient_add.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/patientinfo.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/surgery_add.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/patient_delete.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/surgery.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/._style.css",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/doctor_add.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/login.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/index.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/._index.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/home.php",
+		"/Users/rickytrujillo/Desktop/Project web/doctors.php",
+		"/Users/rickytrujillo/Desktop/Project web/patients.php",
+		"/Users/rickytrujillo/Desktop/Project web/doctorinfo.php",
+		"/Users/rickytrujillo/Desktop/Project web/patientinfo.php",
+		"/Applications/XAMPP/xamppfiles/etc/httpd.conf",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/etc/httpd.conf",
+		"/Users/rickytrujillo/Desktop/Project web/proccess_update.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/style.css",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/transactions.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/search.css",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/untitled.php",
+		"/Users/rickytrujillo/.bitnami/stackman/machines/xampp/volumes/root/htdocs/button.css",
+		"/Users/rickytrujillo/Desktop/HospitalManagementSystem_PYTHON/hms_py/static/patient.html",
+		"/Users/rickytrujillo/Desktop/HospitalManagementSystem_PYTHON/hms_py/static/index.html",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 10/ricardo-trujillo-lab10/4.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 10/ricardo-trujillo-lab10/3.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 10/ricardo-trujillo-lab10/2.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 10/ricardo-trujillo-lab10/1.sql",
+		"/Users/rickytrujillo/Desktop/HospitalSQL.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 4/ricardo-trujillo-lab4/13.sql",
+		"/Users/rickytrujillo/Desktop/public_html/cmsV3/core/assets/vendor/ckeditor/plugins/pastefromword/filter/default.js",
+		"/Users/rickytrujillo/Desktop/public_html/members.html",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/10.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/13.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/1.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/2.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/3.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/4.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/5.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/6.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/7.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/8.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/9.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/11.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/12.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/14.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/ricardo-trujillo-lab3/15.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 3/Ricardo_Trujillo_Lab3",
+		"/Users/rickytrujillo/Desktop/Ricardo_Trujillo_Lab3",
+		"/Users/rickytrujillo/Desktop/public_html/members/Ricky_Trujillo.html",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 2/tpch_2_13_0/makefile",
+		"/Users/rickytrujillo/Downloads/Ricardo-Trujillo-Lab1.sql",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2019/CSE 111/Lab 1/Ricardo-Trujillo-Lab1.sql",
+		"/Users/rickytrujillo/Desktop/public_html/assets/css/main.css",
+		"/Users/rickytrujillo/Desktop/public_html/members/Alexander_Roman.html",
+		"/Users/rickytrujillo/Desktop/public_html/cmsV3/core/assets/vendor/jquery/jquery.js",
+		"/Users/rickytrujillo/Desktop/public_html/members/Nobuhiro_Fukaya.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Keith_Thu.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Mary_Baltazar.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Roy_Ambrose.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jordan_Pineda.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Vincent_Mac.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Enrique_Florencio.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Peter_Sou.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Carlos_Rocha.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Arturo_Juarez.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Lucas_Lopez.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Ulises_Hernandez.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jolene_Hoang.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jacob_Espinosa.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Abraham_Avendano.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Gabriel_Zepeda.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Ryan_Wong.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Brianna_Rivera.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Quinncie_Reider.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Kimberly_Parra.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Kevin_Kuang.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Diana_Cruz_Garcia.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Andy_Bui.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jack_Cascio.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Saigeetha_Bhaskar.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Andrew_Wong.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Angel_Snavely.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Breanna_Paredes.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Megan_Pinkus.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jessie_Herrera.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Christy_Duong.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Richard_Dominguez.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Dean_Dela_Resma.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Ariell_Smith.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Jackson_Chen.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Buraaq_Alrawi.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Samuel_Gottesfeld.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Adam_Punzalan.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Erik_Reyes.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Christopher_Payumo.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Spencer_Cole.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Prabhjit_Dhillon.html",
+		"/Users/rickytrujillo/Desktop/public_html/images/members/Actives/148_Jordan_Pineda.JPG",
+		"/Users/rickytrujillo/Desktop/public_html/members/Johnny_Jolon.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Vicent_Mac.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Christopher Payumo.html",
+		"/Users/rickytrujillo/Desktop/public_html/members/Ricky.html",
+		"/Users/rickytrujillo/Desktop/public_html/about.html",
+		"/Users/rickytrujillo/Desktop/School Files/Spring 2019/ENGR 65/response.json",
+		"/Applications/Unity/Documentation/en/Manual/docdata/index.js",
+		"/Applications/Unity/Documentation/en/Manual/docdata/global_index.js",
+		"/Users/rickytrujillo/Desktop/Final Review:",
+		"/Users/rickytrujillo/Desktop/|> Lecture 21: Standard Template Library",
+		"/Users/rickytrujillo/Desktop/Multi-Threaded Programs",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2018/CSE 165/:: Abstract Classes",
+		"/Users/rickytrujillo/Desktop/School Files/Fall 2018/CSE 165/Intro to Final Project",
+		"/Users/rickytrujillo/Desktop/Inheritance: Polymorphism: Upcasting",
+		"/Users/rickytrujillo/Desktop/Overloading ",
+		"/Users/rickytrujillo/Desktop/CSE 165 Notes - 10:17:18",
+		"/Area of a Circle",
+		"/Users/rickytrujillo/Desktop/binaryseach.c",
+		"/Users/rickytrujillo/Desktop/swap.c",
+		"/Users/rickytrujillo/Desktop/Project Cases/Makefile",
+		"/Users/rickytrujillo/Desktop/Midterm Question",
+		"/Users/rickytrujillo/Desktop/Makefile",
+		"/Users/rickytrujillo/Desktop/rgrep.c"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "transactions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1596,
+								1596
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "doctorinfo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2564,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1662,
+								1662
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "doctor_add.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1147,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								780,
+								780
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/rickytrujillo/Desktop/Project web/patientinfo.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2200,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								43,
+								43
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "proccess_update.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1362,
+								1362
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "surgery_add.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"home.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 149.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
