@@ -1,0 +1,2 @@
+select n_name, o_orderstatus, count() from nation, customer, region, orders where c_nationkey=n_nationkey 
+and n_regionkey=r_regionkey and o_custkey=c_custkey and r_name= 'ASIA' group by n_name, o_orderstatus;

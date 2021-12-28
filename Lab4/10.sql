@@ -1,0 +1,1 @@
+select p_type,MAX(l_discount) from lineitem, part where l_partkey=p_partkey and p_type like 'ECONOMY%' group by p_type;
