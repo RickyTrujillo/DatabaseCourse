@@ -1,0 +1,1 @@
+SELECT DISTINCT N.n_name FROM nation N, orders O WHERE O.o_orderdate BETWEEN '1996-01-12' AND '1996-31-12';
